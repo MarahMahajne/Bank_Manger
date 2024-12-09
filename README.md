@@ -1,11 +1,12 @@
-Here’s an updated **README.md** file with the mention of OOP principles, interfaces, and abstract classes:
-
----
-
 # Bank System Project
 
 This project implements a bank system in Java, leveraging object-oriented programming (OOP) principles to manage various account types and their functionalities. It includes the use of inheritance, interfaces, and abstract classes to ensure modular, scalable, and maintainable code.
+---
 
+## Class Diagram
+
+ [Bank Class Diagram.pdf](https://github.com/user-attachments/files/18066212/Bank.Class.Diagram.pdf) 
+ 
 ---
 
 ## Features
